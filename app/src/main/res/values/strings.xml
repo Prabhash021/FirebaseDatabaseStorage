@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseStorage</string>
+    <string name="save_data">save data</string>
+    <string name="read_data">Read Data</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
